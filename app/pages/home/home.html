@@ -1,0 +1,47 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Home</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding class="home">
+  <ion-card (press)="pressEvent($event)">
+  <ion-item>
+    <ion-avatar item-left>
+      <img src="http://www.name-list.net/img/portrait/Aymen_7.jpg">
+    </ion-avatar>
+    <h2>Marty McFly</h2>
+    <p>November 5, 1955</p>
+  </ion-item>
+
+  <img src="http://www.beach-albatros.ch/images/content/hotel/images/395/Caribbean%20World%20Palma%20Djerba%20Beach.jpeg">
+
+  <ion-card-content>
+    <p>Wait a minute. Wait a minute, Doc. Uhhh... Are you telling me that you built a time machine... out of a DeLorean?! Whoa. This is heavy.</p>
+  </ion-card-content>
+
+  <ion-row>
+    <ion-col>
+      <button primary clear small (tap)="tapEvent($event)">
+        <ion-icon name="thumbs-up"></ion-icon>
+        <div>{{tap}} Likes</div>
+      </button>
+    </ion-col>
+    <ion-col>
+      <button primary clear small>
+        <ion-icon name="text"></ion-icon>
+        <div>12 Comments</div>
+      </button>
+    </ion-col>
+    <ion-col center text-center>
+      <ion-note>
+        11h ago
+      </ion-note>
+    </ion-col>
+  </ion-row>
+
+</ion-card>
+
+<button block (click)="presentLoading()">Show Loading</button>
+
+</ion-content>
