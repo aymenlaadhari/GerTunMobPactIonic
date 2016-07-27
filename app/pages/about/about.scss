@@ -7,21 +7,24 @@
     text-align: center;
   }
 
+
   .card-title {
     position: absolute;
-    top: 36%;
+    top: 45%;
     font-size: 2.0em;
     width: 100%;
     font-weight: bold;
     color: #fff;
+    text-shadow: 2px 2px #D10A45;
   }
 
   .card-subtitle {
-    font-size: 1.0em;
+    font-size: 1.5em;
     position: absolute;
     top: 52%;
     width: 100%;
-    color: #fff;
+    color: #0066B3;
+    font-weight: bold;
   }
 
 }
