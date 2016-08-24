@@ -8,12 +8,12 @@
 
   <ion-content class="home">
   <ion-list>
-    <ion-item *ngFor="#person of posts">
+    <button ion-item *ngFor="#hauben of posts">
       <ion-avatar item-left>
-        <img src="{{person.picture.thumbnail}}">
+        <img src="{{hauben.image}}">
       </ion-avatar>
-      <h2>{{person.name.first}} {{person.name.last}}</h2>
-      <p>{{person.email}}</p>
-    </ion-item>
+      <h2>{{hauben.description}}</h2>
+      <p>{{hauben.nummer}}</p>
+    </button>
   </ion-list>
 </ion-content>

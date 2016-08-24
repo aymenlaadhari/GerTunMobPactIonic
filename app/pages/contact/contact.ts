@@ -15,8 +15,8 @@ export class ContactPage {
 
   loadData()
   {
-    this.http.get('https://randomuser.me/api/?results=10').map(res => res.json()).subscribe(data => {
-        this.posts = data.results;
+    this.http.get('https://newmobpact.firebaseapp.com/img/artikels.json').map(res => res.json()).subscribe(data => {
+        this.posts = data.Hauben;
     });
   }
 

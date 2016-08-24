@@ -1,18 +1,19 @@
 <ion-header>
-  <ion-navbar>
-    <ion-title>
-      Dastex GmbH
-    </ion-title>
-  </ion-navbar>
+    <ion-navbar>
+        <ion-title>
+            Dastex GmbH
+        </ion-title>
+    </ion-navbar>
 </ion-header>
 
-  <ion-content class="card-background-page">
-<ion-card (click)="openListProdukt()">
-  <button ion-item >
-    <ion-card>
-  <img src="img/desinfektionsmitteln.png" height="300"/>
-  <div class="card-title">Desinfektionmitteln</div>
-  </ion-card>
-  </button>
-</ion-card>
+<ion-content class="card-background-page">
+    <ion-card >
+        <!--  <button ion-item (click)="openModal({charNum: 0})">-->
+        <button ion-item (click)="openListProdukt()">
+                <ion-card>
+                <img src="img/Oberbekleidung.jpg" height="300"/>
+                <div class="card-title">Oberbekleidung</div>
+            </ion-card>
+        </button>
+    </ion-card>
 </ion-content>

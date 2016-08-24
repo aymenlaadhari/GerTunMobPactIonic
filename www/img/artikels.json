@@ -1,0 +1,41 @@
+{
+	
+		"Hauben": [
+			{
+				"description": "description 1720000_UBE657",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FHauben%2F1720000_UBE657.jpg?alt=media&token=417aa002-7465-418b-bd82-7bcdb8661835",
+				"nummer": "1720000_UBE657"
+			},
+			{
+				"description": "description 1720000_UBE661",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FHauben%2F1720000_UBE661.jpg?alt=media&token=69d960ed-3d71-45e3-8be4-5644f50bd057",
+				"nummer": "1720000_UBE661"
+			},
+			{
+				"description": "description 1721000_UBE652",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FHauben%2F1721000_UBE652.jpg?alt=media&token=859508e9-e0da-469b-9211-bd9031b618e6",
+				"nummer": "1721000_UBE652"
+			},
+			{
+				"description": "dscription 1721BIOT1",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FHauben%2F1721BIOT1.jpg?alt=media&token=933aa526-51b4-4418-b1d7-d33c0c14ae67",
+				"nummer": "1721BIOT1"
+			},
+			{
+				"description": "description 1723ABB1",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FHauben%2F1723ABB1.jpg?alt=media&token=5c73a42b-623d-4797-ada6-5788513ca957",
+				"nummer": "1723ABB1"
+			},
+			{
+				"description": "description 1750gummi_637",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FHauben%2F1750gummi_637.jpg?alt=media&token=c8b53891-1566-483c-927e-7da6ac69dcf5",
+				"nummer": "1750gummi_637"
+			}
+		],
+		"Jacke und Hosen": {
+			"description": "jacket, Ion-Nostat VI.2, basic model 03, standard",
+			"image": "image 170300",
+			"nummer": 170300
+		}
+	
+}

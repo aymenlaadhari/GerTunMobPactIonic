@@ -1,29 +1,31 @@
 <ion-header>
-  <ion-navbar>
-    <ion-title>Grid</ion-title>
-  </ion-navbar>
+    <ion-navbar>
+        <ion-title>Grid</ion-title>
+    </ion-navbar>
 </ion-header>
 <ion-content class="grid-basic-page">
-  <ion-row center>
-    <ion-col>
-      <ion-card>
-        <button ion-item >
-      <img src="img/desinfektionsmitteln.png"/>
-      <ion-card-content>
-    <p>Description</p>
-  </ion-card-content>
-  </button>
-    </ion-card>
-  </ion-col>
-  <ion-col>
-    <ion-card>
-      <button ion-item >
-    <img src="img/desinfektionsmitteln.png"/>
-    <ion-card-content>
-  <p>Description</p>
-</ion-card-content>
-</button>
-  </ion-card>
-</ion-col>
-  </ion-row>
+    <ion-row *ngFor="let hauben of posts; let i=index">
+        <ion-col width-100 >
+            
+            <ion-card (press)="pressEvent($event)">
+                <button ion-item >
+                <ion-card-header>
+                    {{hauben.nummer}}
+                </ion-card-header>
+                
+                    <img src="{{hauben.image}}">
+                    <ion-card-content>
+                        <ion-card-title>
+                            {{hauben.nummer}}
+                        </ion-card-title>
+                        <p>
+                            {{hauben.description}}
+                        </p>
+
+                    </ion-card-content>
+                </button>
+            </ion-card>
+             
+        </ion-col>
+    </ion-row>
 </ion-content>
