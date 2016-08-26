@@ -8,11 +8,22 @@ import 'rxjs/add/operator/map';
 })
 export class ContactPage {
   posts: any;
+  email:string;
+  passedNumber:string;
   constructor(private navCtrl: NavController,private http: Http) {
-    this.presentLoading();
+    //this.presentLoading();
+    this.email = "aymenlaadhari@gmail.com";
+    this.passedNumber="0021655258169"
 
   }
+public mailto(email) {
+   window.open(`mailto:${email}`, '_system');
+}
 
+public callIT(passedNumber){
+    //You can add some logic here
+     window.location = passedNumber;
+    }
   loadData()
   {
     this.http.get('https://newmobpact.firebaseapp.com/img/artikels.json').map(res => res.json()).subscribe(data => {

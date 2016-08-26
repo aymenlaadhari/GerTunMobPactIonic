@@ -1,19 +1,33 @@
 <ion-header>
-  <ion-navbar>
-    <ion-title>
-      Dastex GmbH
-    </ion-title>
-  </ion-navbar>
+    <ion-navbar>
+        <ion-title>
+            Dastex GmbH
+        </ion-title>
+    </ion-navbar>
 </ion-header>
 
-  <ion-content class="home">
-  <ion-list>
-    <button ion-item *ngFor="#hauben of posts">
-      <ion-avatar item-left>
-        <img src="{{hauben.image}}">
-      </ion-avatar>
-      <h2>{{hauben.description}}</h2>
-      <p>{{hauben.nummer}}</p>
-    </button>
-  </ion-list>
+<ion-content class="home">
+    <ion-list>
+        <ion-item-sliding>
+            <button ion-item>
+                <ion-avatar item-left>
+                    <img src="https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Dastex%2FTeam%2FAyme.jpg?alt=media&token=0ca75ea0-e56c-4043-b57d-e3f1cfcf0e46">
+                </ion-avatar>
+                <h2>Aymen Ladhari</h2>
+                <p>Account Manager MENA Region</p>
+            </button>
+            <ion-item-options side="left">
+                <button secondary (click)="callIT(passedNumber)">
+                    <ion-icon name="call"></ion-icon>
+                    Call
+                </button>
+            </ion-item-options>
+            <ion-item-options side="right">
+                <button primary (click)="mailto(email)">
+                    <ion-icon name="mail"></ion-icon>
+                    Email
+                </button>
+            </ion-item-options>
+        </ion-item-sliding>
+    </ion-list>
 </ion-content>
