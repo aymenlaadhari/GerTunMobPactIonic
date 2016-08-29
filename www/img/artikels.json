@@ -32,7 +32,7 @@
 				"nummer": "1750gummi_637"
 			}
 		],
-		"Jacke und Hosen": [
+		"Jack": [
 			{
 				"description": "description",
 				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FJacke%20und%20Hosen%2F0586.jpg?alt=media&token=f11f1474-5c8a-47b2-bc78-81a745e720cc",
@@ -122,7 +122,7 @@
 				"nummer": "520"
 			}
 		],
-		"Stiefel und Co": [
+		"Stief": [
 			{
 				"description": "description",
 				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FStiefel%20und%20Co%2F1750.jpg?alt=media&token=6c72b09c-55df-4639-ae5c-ef1b4da25556",
@@ -212,6 +212,72 @@
 				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FStiefel%20und%20Co%2F17S1100.jpg?alt=media&token=e9765a77-b960-4568-87fb-987a636dd147",
 				"name": "name",
 				"nummer": "17S1100"
+			}
+		],
+                "Handschuhe": [
+			{
+				"description": "description",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Handschuhe%2Fhandschuh_3011_byernst058J2739.jpg?alt=media&token=49c13ac3-29e6-4004-a57c-adfdfd3229c5",
+				"name": "name",
+				"nummer": "0586"
+			},
+			{
+				"description": "description",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Handschuhe%2Fhandschuhe_vario_byernst569A2469.jpg?alt=media&token=8233d795-9ff8-491e-9429-20b8d35ee4ad",
+				"name": "name",
+				"nummer": "524"
+			},
+			{
+				"description": "description",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Handschuhe%2Fhandschuhe_vario_byernst569A2476.jpg?alt=media&token=1ab9fc72-17fb-44d3-b7cb-4391aa5bdffe",
+				"name": "name",
+				"nummer": "kittel"
+			},
+                        {
+				"description": "description",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Handschuhe%2Fhandschuhe_vario_byernst569A2490.jpg?alt=media&token=a0f50810-eac1-4c3b-ade6-f77462d0b831",
+				"name": "name",
+				"nummer": "kittel"
+			},
+                        {
+				"description": "description",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Handschuhe%2Fhandschuhe_vario_byernst569A2493.jpg?alt=media&token=2921cc23-bcb1-45f1-9187-c828b490288f",
+				"name": "name",
+				"nummer": "kittel"
+			}
+		],
+                "Tapes": [
+			{
+				"description": "description",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Tapes%20und%20Abroller%2Frollenstander_1fach_byernst_1263.jpg?alt=media&token=8a6d918a-fa5c-4fc1-af31-9ebec99ec990",
+				"name": "name",
+				"nummer": "0586"
+			},
+			{
+				"description": "description",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Tapes%20und%20Abroller%2Frollenstander_4fach_byernst_1261.jpg?alt=media&token=8790b1cd-49aa-4414-bc3a-f15573c1fde2",
+				"name": "name",
+				"nummer": "524"
+			}
+		],
+                "Tucher": [
+			{
+				"description": "description",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FKittel%2F0586.jpg?alt=media&token=6c8fe5a4-62a8-42da-8753-95b8809f734a",
+				"name": "name",
+				"nummer": "0586"
+			},
+			{
+				"description": "description",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FKittel%2F524.jpg?alt=media&token=2b89c0bd-18d0-46dd-9b97-ff7c3d3bd5b5",
+				"name": "name",
+				"nummer": "524"
+			},
+			{
+				"description": "description",
+				"image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FKittel%2Fkittel.jpg?alt=media&token=cecee0bb-7d8c-415f-8a18-2c6262bc4652",
+				"name": "name",
+				"nummer": "kittel"
 			}
 		]
 	

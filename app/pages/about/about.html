@@ -7,13 +7,42 @@
 </ion-header>
 
 <ion-content class="card-background-page">
-    <ion-card >
-        <!--  <button ion-item (click)="openModal({charNum: 0})">-->
-        <button ion-item (click)="openListProdukt()">
-                <ion-card>
-                <img src="https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FOberbekleidung.jpg?alt=media&token=f4d20258-a972-4803-b739-4f00b9e54c75" height="300"/>
-                <div class="card-title">Oberbekleidung</div>
-            </ion-card>
-        </button>
-    </ion-card>
+    <ion-list>
+        <ion-card>
+            <!--  <button ion-item (click)="openModal({charNum: 0})">-->
+            <button ion-item (click)="openListBekleidung()">
+                    <ion-card>
+                    <img src="https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FOberbekleidung.jpg?alt=media&token=38c48b99-c374-429a-85f0-c9f01cdc54d6"/>
+                    <div class="card-title">Oberbekleidung</div>
+                </ion-card>
+            </button>
+        </ion-card>
+        <ion-card>
+            <!--  <button ion-item (click)="openModal({charNum: 0})">-->
+            <button ion-item (click)="openListProdukt('Handschuhe','Handschuhe')">
+                    <ion-card>
+                    <img src="https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Handschuhe%2FhandShuhe.jpg?alt=media&token=6e7e07af-5f88-4321-87e3-c4fbbf32a060"/>
+                    <div class="card-title">Handschuhe</div>
+                </ion-card>
+            </button>
+        </ion-card>
+        <ion-card>
+            <!--  <button ion-item (click)="openModal({charNum: 0})">-->
+            <button ion-item (click)="openListProdukt('Tapes','Tapes und Abroller')">
+                    <ion-card>
+                    <img src="https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Tapes%20und%20Abroller%2Frollenstander.jpg?alt=media&token=2a30dbb3-bd82-4a5d-936a-4b079137e8a7"/>
+                    <div class="card-title">Tapes und Abroller</div>
+                </ion-card>
+            </button>
+        </ion-card>
+        <ion-card>
+            <!--  <button ion-item (click)="openModal({charNum: 0})">-->
+            <button ion-item (click)="openListProdukt('Tucher','Tücher')">
+                    <ion-card>
+                    <img src="https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/T%C3%BCcher%2FT%C3%BCcher.jpg?alt=media&token=aed607f2-7227-4057-af4e-0187753f01e1"/>
+                    <div class="card-title">Tücher</div>
+                </ion-card>
+            </button>
+        </ion-card>
+    </ion-list>
 </ion-content>

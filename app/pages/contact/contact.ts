@@ -16,7 +16,7 @@ export class ContactPage {
     this.passedNumber="0021655258169"
 
   }
-public mailto(email) {
+public mailto(email:string) {
    window.open(`mailto:${email}`, '_system');
 }
 
@@ -24,21 +24,4 @@ public callIT(passedNumber){
     //You can add some logic here
      window.location = passedNumber;
     }
-  loadData()
-  {
-    this.http.get('https://newmobpact.firebaseapp.com/img/artikels.json').map(res => res.json()).subscribe(data => {
-        this.posts = data.Hauben;
-    });
-  }
-
-  public presentLoading() {
-  let loading = Loading.create({
-    content: "Please wait...",
-    duration: 3000
-  });
-  this.navCtrl.present(loading);
-  this.loadData();
-
-}
-
 }

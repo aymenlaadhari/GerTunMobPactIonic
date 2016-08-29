@@ -11,7 +11,11 @@ export class OberList {
     constructor(private navCtrl: NavController) {
     }
 
-    public openListProdukt() {
-        this.navCtrl.push(ProduktListe);
+    public openListProdukt(type: string,name:string) {
+        
+        this.navCtrl.push(ProduktListe,{
+            type: type,
+            name: name
+          });
     }
 }

@@ -11,8 +11,13 @@ export class AboutPage {
   constructor(private navCtrl: NavController) {
   }
 
-public openListProdukt()
+public openListBekleidung()
 {
-  this.navCtrl.push(OberList);
+    this.navCtrl.push(OberList);
+}
+
+    public openListProdukt(type: string, name: string)
+{
+    this.navCtrl.push(ProduktListe, { type: type,name: name});
 }
 }

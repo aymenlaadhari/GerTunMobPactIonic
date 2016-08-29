@@ -1,5 +1,5 @@
 import {Component} from '@angular/core';
-import {NavController,Platform, Loading, ActionSheet} from 'ionic-angular';
+import {NavController,Platform, Loading, ActionSheet,NavParams} from 'ionic-angular';
 import {Http} from '@angular/http';
 
 @Component({
@@ -7,16 +7,51 @@ import {Http} from '@angular/http';
 })
 export class ProduktListe {
     posts: any;
+    type: string;
+    name: string;
+    
 
-  constructor(private navCtrl: NavController,public platform: Platform, private http: Http) {
-
+  constructor(private navCtrl: NavController,public platform: Platform, private http: Http,params: NavParams) {
+      this.type = params.get("type");
+      this.name = params.get("name");
       this.presentLoading();
   }
   
    loadData()
   {
     this.http.get('https://newmobpact.firebaseapp.com/img/artikels.json').map(res => res.json()).subscribe(data => {
-        this.posts = data.Hauben;
+        // TypeScript
+
+        
+  switch (this.type) {
+    case "Hauben":
+      this.posts = data.Hauben;
+      break;
+    case "Jack":
+      this.posts = data.Jack;
+      break;
+    case "Kittel":
+      this.posts = data.Kittel;
+      break;
+    case "Overalls":
+      this.posts = data.Overalls;
+      break;
+    case "Stief":
+      this.posts = data.Stief;
+      break;
+      case "Handschuhe":
+      this.posts = data.Handschuhe;
+      break;
+      case "Tapes":
+      this.posts = data.Tapes;
+      break;
+      case "Tucher":
+      this.posts = data.Tucher;
+      break;
+    default:
+      this.posts = data.Hauben;
+  }
+        
     });
   }
  public presentLoading() {
