@@ -23,34 +23,35 @@ export class ProduktListe {
         // TypeScript
 
         
-  switch (this.type) {
-    case "Hauben":
-      this.posts = data.Hauben;
-      break;
-    case "Jack":
-      this.posts = data.Jack;
-      break;
-    case "Kittel":
-      this.posts = data.Kittel;
-      break;
-    case "Overalls":
-      this.posts = data.Overalls;
-      break;
-    case "Stief":
-      this.posts = data.Stief;
-      break;
-      case "Handschuhe":
-      this.posts = data.Handschuhe;
-      break;
-      case "Tapes":
-      this.posts = data.Tapes;
-      break;
-      case "Tucher":
-      this.posts = data.Tucher;
-      break;
-    default:
-      this.posts = data.Hauben;
-  }
+        switch (this.type) {
+            case "Hauben":
+                this.posts = data.Hauben;
+                break;
+            case "Zwischen":
+                this.posts = data.Zwischen;
+                break;
+            case "Jack":
+                this.posts = data.Jack;
+                break;
+            case "Kittel":
+                this.posts = data.Kittel;
+                break;
+            case "Overalls":
+                this.posts = data.Overalls;
+                break;
+            case "Stief":
+                this.posts = data.Stief;
+                break;
+            case "Handschuhe":
+                this.posts = data.Handschuhe;
+                break;
+            case "Tapes":
+                this.posts = data.Tapes;
+                break;
+            case "Tucher":
+                this.posts = data.Tucher;
+                break;
+        }
         
     });
   }

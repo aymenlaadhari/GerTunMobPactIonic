@@ -3,9 +3,14 @@
         <ion-title>
             Dastex GmbH
         </ion-title>
+        <ion-buttons end>
+            <button (click)="presentPopover($event)">
+                <ion-icon name="more"></ion-icon>
+            </button>
+        </ion-buttons>
     </ion-navbar>
 </ion-header>
-
+ 
 <ion-content class="home">
     <ion-list>
         <ion-item-sliding>
@@ -18,13 +23,13 @@
             </button>
             <ion-item-options side="left">
                 <button secondary (click)="callIT(passedNumber)">
-                    <ion-icon name="call"></ion-icon>
+                        <ion-icon name="call"></ion-icon>
                     Call
                 </button>
             </ion-item-options>
             <ion-item-options side="right">
                 <button primary (click)="mailto(email)">
-                    <ion-icon name="mail"></ion-icon>
+                        <ion-icon name="mail"></ion-icon>
                     Email
                 </button>
             </ion-item-options>
