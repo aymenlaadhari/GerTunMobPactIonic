@@ -1,0 +1,36 @@
+<ion-header>
+    <ion-navbar ionic>
+        <ion-title text-center>
+            Artikel Liste
+        </ion-title>
+    </ion-navbar>
+</ion-header>
+
+
+<ion-content>
+    <ion-grid>
+        <ion-list>
+            <ion-row *ngFor="let row of grid">
+                <ion-col width-50 *ngFor="let hauben of row">
+                     <ion-card (press)="pressEvent($event)" (tap)="tapEvent($event,hauben)">
+                        <button ion-item > 
+                            <ion-card-header>
+                                {{hauben.nummer}}
+                            </ion-card-header>
+                            <img src="{{hauben.image}}">
+                        </button>
+                        <ion-card-content>
+                            <ion-card-title>
+                                {{hauben.name}}
+                            </ion-card-title>
+                            <p>
+                                {{hauben.description}}
+                            </p>
+                        </ion-card-content>
+
+                    </ion-card>
+                </ion-col>
+            </ion-row>
+        </ion-list>
+    </ion-grid>
+</ion-content>

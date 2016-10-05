@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "newmobpact"
+    "default": "newmobpact",
+    "dastex": "dastex-649f1",
+    "DastexCat": "newmobpact",
+    "dastexCat": "newmobpact"
   }
 }

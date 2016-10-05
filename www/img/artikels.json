@@ -36,25 +36,25 @@
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FJacke%20und%20Hosen%2F0586.jpg?alt=media&token=f11f1474-5c8a-47b2-bc78-81a745e720cc",
             "name": "name",
-            "nummer": "nummer"
+            "nummer": "2121"
         },
         {
             "description": "descrption",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FJacke%20und%20Hosen%2F6103.jpg?alt=media&token=2834af7b-9f45-486d-bf96-a4e0d13132ed",
             "name": "name",
-            "nummer": "nummer"
+            "nummer": "2121"
         },
         {
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FJacke%20und%20Hosen%2F170300.jpg?alt=media&token=9b047cf2-51bc-443c-bbd2-e29a4f759b16",
             "name": "name",
-            "nummer": "nummer"
+            "nummer": "2121"
         },
         {
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FJacke%20und%20Hosen%2F61J01.jpg?alt=media&token=9baab566-da0a-45bb-81a3-67136692bc5b",
             "name": "name",
-            "nummer": "nummer"
+            "nummer": "2121"
         }
     ],
     "Kittel": [
@@ -74,7 +74,7 @@
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FKittel%2Fkittel.jpg?alt=media&token=cecee0bb-7d8c-415f-8a18-2c6262bc4652",
             "name": "name",
-            "nummer": "kittel"
+            "nummer": "2121"
         }
     ],
     "Overalls": [
@@ -230,19 +230,19 @@
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Handschuhe%2Fhandschuhe_vario_byernst569A2476.jpg?alt=media&token=1ab9fc72-17fb-44d3-b7cb-4391aa5bdffe",
             "name": "name",
-            "nummer": "kittel"
+            "nummer": "2121"
         },
         {
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Handschuhe%2Fhandschuhe_vario_byernst569A2490.jpg?alt=media&token=a0f50810-eac1-4c3b-ade6-f77462d0b831",
             "name": "name",
-            "nummer": "kittel"
+            "nummer": "212"
         },
         {
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Handschuhe%2Fhandschuhe_vario_byernst569A2493.jpg?alt=media&token=2921cc23-bcb1-45f1-9187-c828b490288f",
             "name": "name",
-            "nummer": "kittel"
+            "nummer": "2121"
         }
     ],
     "Tapes": [
@@ -261,9 +261,9 @@
     ],
     "Zwischen": [
         {
-            "description": "description",
+            "description": "Light-Tech II, basic model 86, standard style",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Zwischenbekleidung%2F0586_fn09_pulli418.jpg?alt=media&token=247afaef-6e04-4fa3-8270-b3230e428d8c",
-            "name": "name",
+            "name": "Sweatshirt with long sleeves",
             "nummer": "0586"
         },
         {
@@ -273,28 +273,28 @@
             "nummer": "524"
         },
         {
-            "description": "description",
+            "description": "Light-Tech II, basic model 90, standard style",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Zwischenbekleidung%2F0590_hose%20_701.jpg?alt=media&token=a7ed85a2-53b9-41f1-8916-e4bd0a5c6b99",
-            "name": "name",
-            "nummer": "524"
+            "name": "Trousers",
+            "nummer": "0590"
         },
         {
-            "description": "description",
+            "description": "HT3, basic model 33, standard style",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Zwischenbekleidung%2Fdastex_HT3_jacke_%20grau%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20_schuhe1204.jpg?alt=media&token=cafdb6cc-4100-4d2c-922e-b6d866f888dc",
-            "name": "name",
-            "nummer": "524"
+            "name": "jacket",
+            "nummer": "U023300"
         },
         {
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Zwischenbekleidung%2Fdastex_shirt1284.jpg?alt=media&token=cd3baf09-c3d1-4c88-810e-801ea32e96c3",
             "name": "name",
-            "nummer": "524"
+            "nummer": "U0589ZEIS1"
         },
         {
-            "description": "description",
+            "description": "HT2, basic model 82, VW style",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Zwischenbekleidung%2Fdastex_tshirt_%20blau_1209.jpg?alt=media&token=3aade55c-cd3c-4a80-9531-89ead64abbbc",
-            "name": "name",
-            "nummer": "524"
+            "name": "T-shirt with short sleeves",
+            "nummer": "U0382"
         },
         {
             "description": "description",
@@ -306,43 +306,43 @@
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Zwischenbekleidung%2FHAPTECH_hose461.jpg?alt=media&token=eb69e0c6-842c-474e-8595-8860495bd532",
             "name": "name",
-            "nummer": "524"
+            "nummer": "U01H01"
         },
         {
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Zwischenbekleidung%2FHEMD497.jpg?alt=media&token=fa98d7d6-c2e1-4ca5-83c8-93ede66e5b08",
             "name": "name",
-            "nummer": "524"
+            "nummer": "6113GOUL1"
         },
         {
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Zwischenbekleidung%2FHT2_hose454.jpg?alt=media&token=638da347-1a66-4ecd-8f55-101ec1258354",
             "name": "name",
-            "nummer": "524"
+            "nummer": "7790CSL1"
         },
         {
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Zwischenbekleidung%2FHT2_kurz_shirt_687.jpg?alt=media&token=b05adb25-e9ed-4878-8f0e-cc4c90f1d7a7",
             "name": "name",
-            "nummer": "524"
+            "nummer": "7787SANO1"
         },
         {
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Zwischenbekleidung%2FHT2_lang_shirt%20_682.jpg?alt=media&token=90e4623b-387f-40ac-a5df-de18b4e865c2",
             "name": "name",
-            "nummer": "524"
+            "nummer": "7787ASYS1"
         },
         {
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Zwischenbekleidung%2Flighttechii_overalll377.jpg?alt=media&token=dc5f6a15-4873-4693-a7b3-4b9d3531ca93",
             "name": "name",
-            "nummer": "524"
+            "nummer": "0531"
         },
         {
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Zwischenbekleidung%2Foverall_blau707.jpg?alt=media&token=f174cffd-0060-44c5-9577-a332aabfb3e8",
             "name": "name",
-            "nummer": "524"
+            "nummer": "overall_blau707"
         }
     ],
     "Tucher": [
@@ -362,19 +362,19 @@
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/T%C3%BCcher%2Fdastex_fliestest_2015_byernst058J6093.jpg?alt=media&token=c7840085-b199-44f1-ba98-bdb6b41b0462",
             "name": "name",
-            "nummer": "kittel"
+            "nummer": "2121"
         },
         {
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/T%C3%BCcher%2Fdastex_fliestest_2015_byernst058J6094.jpg?alt=media&token=dcab33ad-0ee3-4231-94f8-e015ceff9f3e",
             "name": "name",
-            "nummer": "kittel"
+            "nummer": "2121"
         },
         {
             "description": "description",
             "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/T%C3%BCcher%2Fdastex_fliestest_2015_byernst058J6096.jpg?alt=media&token=1a08d51c-9ad8-4860-b90c-c46f3850385d",
             "name": "name",
-            "nummer": "kittel"
+            "nummer": "2121"
         }
 
     ]

@@ -4,11 +4,11 @@
     </ion-navbar>
 </ion-header>
 <ion-content class="grid-basic-page">
-    <ion-row *ngFor="let hauben of posts; let i=index">
+    <ion-row *ngFor="let hauben of artikels; let i=index">
         <ion-col width-100 >
 
             <ion-card (press)="pressEvent($event)">
-                <button ion-item >
+                <button ion-item > 
                     <ion-card-header>
                         {{hauben.nummer}}
                     </ion-card-header>
