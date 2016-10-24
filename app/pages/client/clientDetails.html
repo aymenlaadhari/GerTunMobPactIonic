@@ -7,18 +7,17 @@
 <ion-content padding class="speaker-detail">
 
   <div text-center>
-    <img src="https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Dastex%2FTeam%2FAyme.jpg?alt=media&token=0ca75ea0-e56c-4043-b57d-e3f1cfcf0e46" alt="Aymen Ladhari">
+    <img [src]="client.image">
   </div>
 
   <ion-card> 
   
   <ion-card-content>
     <ion-card-title>
-      Nine Inch Nails Live
+      {{client.name}}
       </ion-card-title>
     <p>
-      The most popular industrial group ever, and largely
-      responsible for bringing the music to a mass audience.
+      {{client.description}}
     </p>
   </ion-card-content>
 </ion-card>

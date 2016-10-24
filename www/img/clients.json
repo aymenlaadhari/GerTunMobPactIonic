@@ -1,0 +1,132 @@
+{
+    "Clients": [
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fsaidal.png?alt=media&token=ba98b300-70f2-4ec0-942f-85e9bdf2d285",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "revenues": "500500",
+            "name": "Saidal"
+        },
+        {
+           "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Flogo.png?alt=media&token=aab256c9-3617-4796-a1e7-a7c830a384d0",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "Sophal"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fagrichim.png?alt=media&token=46d6fe2b-695c-4da4-8690-fcd4836f1b57",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "AGRICHIM-MEDIPHARM"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fivalpharma.jpg?alt=media&token=408d0f93-afc8-483f-9be9-359d38f716a5",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "Ivalpharma"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fpharmalliance.png?alt=media&token=4c4abe53-ebe9-4d67-af8b-a83d5a88fb95",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "Pharmalliance"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FHauben%2F1720000_UBE657.jpg?alt=media&token=417aa002-7465-418b-bd82-7bcdb8661835",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "Generic Lab"
+        },
+         {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Ftaphco.jpg?alt=media&token=4b4092bf-9d7b-4355-84ad-1720f0a16892",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "Taphco"
+        },
+         {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fgroupesante.png?alt=media&token=c77fd38d-ad58-4992-9bff-83c9a1e79b5c",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "Group Sante Laboratoires"
+        },
+         {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fbiocare.JPG?alt=media&token=012c211f-9ac2-47db-a28d-cc4145cfe0f8",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "Biocare Laboratories"
+        },
+         {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fkpma.png?alt=media&token=46dc716b-e245-4c78-80b5-8f8d001d71ad",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "KHROUB PHARMACEUTICAL "
+        },
+         {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fryadhpharm.JPG?alt=media&token=32eeca48-305c-48c7-a0f1-f5c812710831",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "Riadh Pharm"
+        },
+         {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fupc.png?alt=media&token=f41aaef1-bd1c-46c1-902c-306daa0be37e",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "UPC"
+        },
+         {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fpharmaghreb.jpg?alt=media&token=a635b244-2fa4-48a8-beeb-4ccf77720776",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "Pharmagreb"
+        },
+         {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fisopharm.png?alt=media&token=5d66e5eb-eeea-47ea-8e8e-b7c1d91c2670",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "Isopharm"
+        },
+         {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fhekma.png?alt=media&token=bccc9d97-c255-4b5c-8602-97be0b5a789f",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "Hikma Pharma Algeria"
+        },
+         {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fnovonordisk.jpg?alt=media&token=3e5ae572-8421-4381-813c-1fa76d5e0c18",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "Novo Nordisk"
+        },
+         {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fbiopharm.jpg?alt=media&token=79c3f775-cac6-429e-bde2-9fcabb19205f",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "Biopharm"
+        },
+         {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Oberbekleidung%2FHauben%2F1720000_UBE657.jpg?alt=media&token=417aa002-7465-418b-bd82-7bcdb8661835",
+            "country": "ALG",
+            "products": "Pharmacie",
+            "name": "PCH - Pharmacie Centrale des Hôpitaux,EPIC"
+        }
+        
+    ]
+}
