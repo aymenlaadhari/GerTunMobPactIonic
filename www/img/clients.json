@@ -126,6 +126,237 @@
             "country": "ALG",
             "products": "Pharmacie",
             "name": "PCH - Pharmacie Centrale des Hôpitaux,EPIC"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Flaprophan.png?alt=media&token=2c933d60-2ac0-4245-b16c-2ae300d4b3f7",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "LABORATOIRES LAPROPHAN"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fsothema.jpg?alt=media&token=b7f9889e-8a10-4922-b92f-4f9ab7529e69",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "Sothema"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fgalencia.jpg?alt=media&token=affc0f96-6d38-4522-90c0-b48ed8bcf6ec",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "Laboratoires Pharmaceutiques Galenica"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fpharma5.png?alt=media&token=4ebeb218-8b5b-4128-b00c-ef34c2e31aaa",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "Pharma - 5"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fafricphar.jpg?alt=media&token=2c17e829-908a-4774-8203-01419b5b3617",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "Afric Phar"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fastrazeneca.jpg?alt=media&token=86e167c9-395b-42b4-bc3c-d37d16de1f2a",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "AstraZeneca Sarlau"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fcooperpharma.png?alt=media&token=610268c7-f591-49c6-877c-6eb9b6001957",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "Cooper Pharma"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fergomaroc.png?alt=media&token=5282e416-51b9-43b4-b4fc-7859b391364e",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "Ergo maroc"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fugp.png?alt=media&token=8d6ce632-413f-400f-85f8-020405bdcb1e",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "UGPP"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fgenpharma.png?alt=media&token=05ca09c2-5577-4159-8bd2-8de312fb6a7e",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "GENPHARMA"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fiberma.png?alt=media&token=99724f4e-864c-4194-8f7e-c97525f999c1",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "Iberma"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fkosmopharme.png?alt=media&token=5fd6ba8b-6afd-4f11-9f20-338f9b6df32f",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "Kosmopharm"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Flaprophan.png?alt=media&token=2c933d60-2ac0-4245-b16c-2ae300d4b3f7",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "Laprophan"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fmaphar.jpg?alt=media&token=ec31bb74-95ce-4136-9cc0-fad677dd5872",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "Maphar"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fmcpharma.bmp?alt=media&token=63835c69-da53-4c65-9c80-6a58f9a18994",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "MC Pharma"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fnovopharma.png?alt=media&token=fa864c48-da18-4bbe-872c-7cd2f56ddd73",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "Novopharma"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fpromopharm.png?alt=media&token=97ae1ef7-c6f8-4a30-aa7a-48ec65b6b781",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "PROMOPHARM"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fsanofi.png?alt=media&token=6963889a-f475-4d8d-93ef-d9350ea9df38",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "Sanofi"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fsoludia.jpg?alt=media&token=cf823fdf-7971-4306-98cb-1098e74013d0",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "Soludia Maghreb"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fsynthemedic.jpg?alt=media&token=a7e4f93a-d728-449b-a160-94f9db140e52",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "SYNTHEMEDIC"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fzenithpharma.jpg?alt=media&token=a3e491f3-df0d-4999-ae9a-c769d4e98430",
+            "country": "MAR",
+            "products": "Pharmacie",
+            "name": "Zenith Pharma"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Funimed.png?alt=media&token=6599cefd-4252-4242-8b3b-228c42ccf26c",
+            "country": "TUN",
+            "products": "Pharmacie",
+            "name": "Unimed"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fberglifesiences.jpg?alt=media&token=085c39c7-a554-4f22-af3d-7a5018c6dcf9",
+            "country": "TUN",
+            "products": "Pharmacie",
+            "name": "Berg life sciences"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fsynthemedic.jpg?alt=media&token=a7e4f93a-d728-449b-a160-94f9db140e52",
+            "country": "TUN",
+            "products": "Pharmacie",
+            "name": "IAB pharma"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fmedicef.jpg?alt=media&token=bf020e46-30e0-4fbe-a37c-b2754e72d435",
+            "country": "TUN",
+            "products": "Pharmacie",
+            "name": "Medicef pharma"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fopalia.png?alt=media&token=36a4b816-35c6-463d-8604-57087b9012da",
+            "country": "TUN",
+            "products": "Pharmacie",
+            "name": "Opalia Pharma"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fmedis.png?alt=media&token=c0898157-81c0-4cbd-925b-8c16af1e8b4d",
+            "country": "TUN",
+            "products": "Pharmacie",
+            "name": "Medis"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fdaressaydali.jpg?alt=media&token=5f67d374-e99f-42f0-bb59-6b9401fdb2aa",
+            "country": "TUN",
+            "products": "Pharmacie",
+            "name": "Daressaydali"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2FpharmaghrebTunisie.jpg?alt=media&token=481a7464-8b5c-4f51-85cd-3281f01919ba",
+            "country": "TUN",
+            "products": "Pharmacie",
+            "name": "Pharmaghreb"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fadwya.png?alt=media&token=e16ec45a-7373-4509-a2c2-ed747c2ef0ff",
+            "country": "TUN",
+            "products": "Pharmacie",
+            "name": "Adwya"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fteriak.jpg?alt=media&token=ed994096-4c2c-4c4a-a1f0-5dca46097f04",
+            "country": "TUN",
+            "products": "Pharmacie",
+            "name": "Teriak"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fcytopharma.png?alt=media&token=7ae3b3e7-7019-40d2-9f36-e162b07bfa5b",
+            "country": "TUN",
+            "products": "Pharmacie",
+            "name": "Cytopharma"
+        },
+        {
+            "description": "description 1720000_UBE657",
+            "image": "https://firebasestorage.googleapis.com/v0/b/newmobpact.appspot.com/o/Firmen%2Fmedivet.jpg?alt=media&token=42cc5c3f-3c04-4707-a74c-ac0a9dbf89f7",
+            "country": "TUN",
+            "products": "Pharmacie",
+            "name": "Medivet"
         }
         
     ]
